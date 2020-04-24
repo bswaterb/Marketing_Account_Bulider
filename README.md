@@ -9,3 +9,6 @@
 ip:port/creating访问页面
 
 项目源码见仓库/untitled2/
+
+![image](https://github.com/chaohui78120/Marketing_Account_Bulider/blob/master/creating/images/example1.png)
+![image](https://github.com/chaohui78120/Marketing_Account_Bulider/blob/master/creating/images/example2.png)
